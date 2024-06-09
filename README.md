@@ -22,7 +22,7 @@ Para executar o CadastroProdutosApp, é necessário ter o Java instalado na sua 
 1. Clone este repositório para sua máquina local:
 
     ```
-    git clone https://github.com/seu-usuario/CadastroProdutosApp.git
+    git clone https://github.com/GuilhermeReis12/CadastroProdutos_java
     ```
 
 2. Navegue até o diretório do projeto:
